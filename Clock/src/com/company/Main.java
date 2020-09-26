@@ -16,6 +16,7 @@ public class Main {
         System.out.printf("%02d", minutes);
         System.out.print(":");
         System.out.printf("%02d", seconds);
+        // Вроде выполнил задание. Способ добавления нуля в начало посмотрел в интернете "%02d"
 
     }
 }
