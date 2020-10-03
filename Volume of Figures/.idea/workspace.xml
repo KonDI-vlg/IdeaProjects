@@ -19,7 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fc89d7d5-d7a1-4b25-9e14-1b0903320681" name="Default Changelist" comment="" />
+    <list default="true" id="49937cde-6181-4677-af77-99658fcf9e15" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,7 +28,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectId" id="1iBY2qLAA5kWtig19wXx3aQu9FI" />
+  <component name="ProjectId" id="1iMNPYqvE9vEVmNUoe2JSuZKeXn" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -37,7 +37,7 @@
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.company.Main" />
-      <module name="3-digit" />
+      <module name="Volume of Figures" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
@@ -54,11 +54,11 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="fc89d7d5-d7a1-4b25-9e14-1b0903320681" name="Default Changelist" comment="" />
-      <created>1601382252085</created>
+      <changelist id="49937cde-6181-4677-af77-99658fcf9e15" name="Default Changelist" comment="" />
+      <created>1601713479533</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1601382252085</updated>
+      <updated>1601713479533</updated>
     </task>
     <servers />
   </component>
@@ -72,28 +72,23 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1340" height="266" key="GridCell.Tab.0.bottom" timestamp="1601713478958">
+    <state width="1340" height="266" key="GridCell.Tab.0.bottom" timestamp="1601714774328">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1340" height="266" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1601713478958" />
-    <state width="1340" height="266" key="GridCell.Tab.0.center" timestamp="1601713478958">
+    <state width="1340" height="266" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1601714774328" />
+    <state width="1340" height="266" key="GridCell.Tab.0.center" timestamp="1601714774328">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1340" height="266" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1601713478958" />
-    <state width="1340" height="266" key="GridCell.Tab.0.left" timestamp="1601713478958">
+    <state width="1340" height="266" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1601714774328" />
+    <state width="1340" height="266" key="GridCell.Tab.0.left" timestamp="1601714774327">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1340" height="266" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1601713478958" />
-    <state width="1340" height="266" key="GridCell.Tab.0.right" timestamp="1601713478958">
+    <state width="1340" height="266" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1601714774327" />
+    <state width="1340" height="266" key="GridCell.Tab.0.right" timestamp="1601714774328">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1340" height="266" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1601713478958" />
-    <state x="502" y="160" key="new project wizard" timestamp="1601713477180">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="502" y="160" key="new project wizard/0.0.1920.1080@0.0.1920.1080" timestamp="1601713477180" />
+    <state width="1340" height="266" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1601714774328" />
   </component>
 </project>
